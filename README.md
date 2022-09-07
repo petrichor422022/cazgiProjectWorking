@@ -9,8 +9,8 @@ to deploy ::
 
 4. enter your IBM Watson Credentials in the following format :
 
-API_KEY={apikey}
-API_URL={apiurl}
+  API_KEY={apikey}
+  API_URL={apiurl}
 
 5. npm start
 
